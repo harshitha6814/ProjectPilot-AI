@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+projectpilot.db
+
+.env
+
+generated_projects/
+
+temp/
+
+user_settings.json
+
+.vscode/
